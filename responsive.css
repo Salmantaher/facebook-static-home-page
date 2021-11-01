@@ -1,0 +1,46 @@
+@media  all and (max-width:680px){
+    .logo{
+        width: 100%;
+        text-align: center;
+    }
+    .logo img{
+        width: 90%;
+    }
+    .log-in-area{
+        margin: auto;
+        float: none;
+    }
+    .left-area{
+        width: 100%;
+    }
+    .right-area{
+        width: 100%;
+    }
+    .for-email{
+        width: 100%;
+        padding: 0;
+    }
+    .for-password{
+        width: 100%;
+        padding: 0;
+        margin-top: 10px;
+    }
+    .for-submit{
+        width: 100%;
+        padding: 0;
+        margin: 10px 0;
+    }
+    .select-dmy{
+        width: 100%;
+    }
+    .birth-link{
+        width: 100%;
+        padding: 5px;
+    }
+    .birth-link a{
+        font-size: 17px;
+    }
+    .right-area input[type="text"]{
+        font-size: 15px;
+    }
+}
